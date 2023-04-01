@@ -1,0 +1,43 @@
+.wrapper {
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+}
+.parent_for_select_and_input {
+  width: 1200px;
+  margin: 10px auto;
+}
+.parent_btn {
+  position: fixed;
+  right: 8%;
+  top: 40px;
+}
+.btn_close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 35px;
+}
+.parent_input_add {
+  width: 90%;
+  margin: 150px auto 0;
+}
+.btn_clear {
+  width: 120px;
+  height: 50px;
+  margin-top: 50px;
+  border-radius: 5px;
+  background-color: rgb(101, 96, 86);
+  font-weight: 700;
+  font-size: 25px;
+}
+.btn_clear:hover {
+  background-color: gray;
+  color: black;
+}
+
+.select_search {
+  width: 250px;
+  font-size: 20px;
+}

@@ -1,0 +1,13 @@
+.btnAction_start {
+  width: 120px;
+  height: 50px;
+  background-color: bisque;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.btnAction_start:hover {
+  background-color: black;
+  color: bisque;
+  border: 1px solid white;
+}
