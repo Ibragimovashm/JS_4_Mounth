@@ -1,0 +1,17 @@
+.parent_block_pagination {
+  padding: 20px 0 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+}
+.btnsPagination {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.btnsPagination:hover {
+  background-color: black;
+  color: antiquewhite;
+}
