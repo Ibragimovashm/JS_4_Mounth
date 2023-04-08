@@ -1,0 +1,17 @@
+.parent_menu {
+  background-color: blue;
+  width: 100%;
+  padding: 30px 0;
+}
+.ul_for_liMenu {
+  display: flex;
+  gap: 30px;
+}
+.ul_for_liMenu li {
+  font-size: 25px;
+}
+a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
