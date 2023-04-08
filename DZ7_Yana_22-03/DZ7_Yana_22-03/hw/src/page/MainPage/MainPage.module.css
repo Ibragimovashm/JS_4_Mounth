@@ -1,0 +1,23 @@
+.block_sort_btns {
+  width: 250px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  position: fixed;
+  right: 10px;
+  top: 100px;
+}
+
+.block_sort_btns button {
+  width: 80px;
+  height: 30px;
+  font-size: 12px;
+  border-radius: 10px;
+}
+.block_sort_btns button:hover {
+  background-color: black;
+  color: white;
+}
