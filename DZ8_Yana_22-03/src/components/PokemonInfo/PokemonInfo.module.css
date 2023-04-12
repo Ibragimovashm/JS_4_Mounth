@@ -1,0 +1,75 @@
+.parent_block_pokemonInfoComponents {
+  width: 100%;
+  margin-bottom: 100px;
+  /* background-color: aqua; */
+}
+.main_img_infoCard {
+  width: 400px;
+  border: 10px solid white;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 20px;
+}
+.info_pokemonifo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  align-items: center;
+}
+.small_img_block img {
+  width: 150px;
+}
+.header_text_info {
+  font-size: 100px;
+  color: black;
+}
+
+.list_capabilities {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.list_capabilities li {
+  font-size: 20px;
+  font-weight: 800;
+  list-style: decimal;
+  margin: 10px 30px;
+}
+
+.block_3D_model {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.block_3D_model h4 {
+  margin-bottom: 30px;
+  font-size: 25px;
+}
+.block_3D_model ul {
+  background-color: gainsboro;
+  padding: 50px;
+  border-radius: 15px;
+}
+.block_3D_model p {
+  font-size: 30px;
+}
+.block_3D_model li {
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+margin-bottom: 15px;
+}
+.block_3D_model_inner {
+}
+.block_3D_model_inner h5 {
+  font-size: 60px;
+}
+.img_3d_model {
+  width: 400px;
+}

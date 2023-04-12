@@ -1,0 +1,17 @@
+.ul_parent_for_name {
+  width: 90%;
+  height: 150px;
+  margin: 20px auto;
+  background-color: azure;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px 0;
+  border-radius: 45px;
+}
+.pokemon_names {
+  font-size: 40px;
+}
+.img_pokemons {
+  width: 130px;
+}

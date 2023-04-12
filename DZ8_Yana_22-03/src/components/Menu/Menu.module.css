@@ -1,0 +1,36 @@
+.parent_shadow {
+  height: 100px;
+}
+.parent_menu {
+  background-color: rgb(30, 5, 112);
+  width: 100%;
+  padding: 30px 0;
+  position: fixed;
+  top: 0px;
+}
+.ul_for_liMenu {
+  display: flex;
+  gap: 30px;
+}
+.ul_for_liMenu li {
+  font-size: 25px;
+}
+a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+.ul_for_liMenu button {
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(249, 247, 244);
+  color: black;
+}
+.ul_for_liMenu button:hover {
+  color: rgb(241, 237, 231);
+  background-color: black;
+}
